@@ -31,16 +31,16 @@ Link and/or Explanation if generated
 
 ### Steps:
 1. Clone Repository
-```git clone https://github.com/Digital-Image-Processing-PES-ECE/project-name.git ```
+https://github.com/DIP-2025-MINI-PROJECT/Haze-and-Smog-Removal-for-Aerial-Photography.git
 
-2. Install Dependencies
+3. Install Dependencies
 pip install opencv-contrib-python
 pip install numpy
 pip install matplotlib
 pip install scikit-image
 
 
-3. Run the Code
+4. Run the Code
 python haze_and_smog_removal.py
 
 ### Outputs:
