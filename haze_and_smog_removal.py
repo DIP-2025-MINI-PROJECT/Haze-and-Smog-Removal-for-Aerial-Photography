@@ -166,5 +166,4 @@ def full_dehaze(img_path):
     plt.show()
 
 
-# RUN
 full_dehaze("test.jpg")
