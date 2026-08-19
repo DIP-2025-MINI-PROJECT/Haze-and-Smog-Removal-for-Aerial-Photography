@@ -62,3 +62,5 @@ Cannot fully recover details lost due to extremely dense haze
 Future work:
 Use fusion-based or multi-scale Retinex methods for smoother results
 Extend the pipeline with deep-learning based dehazing models
+
+
